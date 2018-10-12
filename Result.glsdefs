@@ -1,0 +1,180 @@
+\ifglsentryexists{minsupport}{}%
+{%
+\gls@defglossaryentry{minsupport}%
+{%
+name={\lr {MinSupport}},%
+sort={\lr {MinSupport}},%
+type={english},%
+first={کمینه پشتیبان},%
+firstplural={},%
+text={کمینه پشتیبان},%
+plural={},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{f-minsupport}{}%
+{%
+\gls@defglossaryentry{f-minsupport}%
+{%
+name={کمینه پشتیبان},%
+sort={کمینه پشتیبان},%
+type={persian},%
+first={\lr {MinSupport}},%
+firstplural={\lr {MinSupport}s},%
+text={\lr {MinSupport}},%
+plural={\lr {MinSupport}s},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cosinesimilarity}{}%
+{%
+\gls@defglossaryentry{cosinesimilarity}%
+{%
+name={\lr {Cosine Similarity}},%
+sort={\lr {Cosine Similarity}},%
+type={english},%
+first={شباهت کسینوسی},%
+firstplural={},%
+text={شباهت کسینوسی},%
+plural={},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{f-cosinesimilarity}{}%
+{%
+\gls@defglossaryentry{f-cosinesimilarity}%
+{%
+name={شباهت کسینوسی},%
+sort={شباهت کسینوسی},%
+type={persian},%
+first={\lr {Cosine Similarity}},%
+firstplural={\lr {Cosine Similarity}s},%
+text={\lr {Cosine Similarity}},%
+plural={\lr {Cosine Similarity}s},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{jaccard}{}%
+{%
+\gls@defglossaryentry{jaccard}%
+{%
+name={\lr {Jaccard}},%
+sort={\lr {Jaccard}},%
+type={english},%
+first={جاکارد},%
+firstplural={},%
+text={جاکارد},%
+plural={},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{f-jaccard}{}%
+{%
+\gls@defglossaryentry{f-jaccard}%
+{%
+name={جاکارد},%
+sort={جاکارد},%
+type={persian},%
+first={\lr {Jaccard}},%
+firstplural={\lr {Jaccard}s},%
+text={\lr {Jaccard}},%
+plural={\lr {Jaccard}s},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
